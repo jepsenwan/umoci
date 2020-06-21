@@ -1,5 +1,7 @@
 module github.com/openSUSE/umoci
 
+go 1.14
+
 require (
 	github.com/apex/log v1.1.1
 	github.com/aphistic/sweet v0.3.0 // indirect
